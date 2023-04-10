@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetProfesores" targetNamespace="http://tempuri.org/DataSetProfesores.xsd" xmlns:mstns="http://tempuri.org/DataSetProfesores.xsd" xmlns="http://tempuri.org/DataSetProfesores.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection ConnectionStringObject="Data Source=localhost\sqlexpress;Initial Catalog=TrabajoPracticoBD;User ID=sa" IsAppSettingsProperty="false" Modifier="Assembly" Name="desktop-2t5vnfr\sqlexpress.TrabajoPracticoBD.dbo" ParameterPrefix="@" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Vista_ProfesoresTableAdapter" GeneratorDataComponentClassName="Vista_ProfesoresTableAdapter" Name="Vista_Profesores" UserDataComponentName="Vista_ProfesoresTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="desktop-2t5vnfr\sqlexpress.TrabajoPracticoBD.dbo" DbObjectName="TrabajoPracticoBD.dbo.Vista_Profesores" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT nro_legajo_p, Profesor, nro_doc, direccion, email, telefono, fec_nac, Titulo, cod_doc, sexo, est_civil, cod_titulo FROM dbo.Vista_Profesores</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="nro_legajo_p" DataSetColumn="nro_legajo_p" />
+              <Mapping SourceColumn="Profesor" DataSetColumn="Profesor" />
+              <Mapping SourceColumn="nro_doc" DataSetColumn="nro_doc" />
+              <Mapping SourceColumn="direccion" DataSetColumn="direccion" />
+              <Mapping SourceColumn="email" DataSetColumn="email" />
+              <Mapping SourceColumn="telefono" DataSetColumn="telefono" />
+              <Mapping SourceColumn="fec_nac" DataSetColumn="fec_nac" />
+              <Mapping SourceColumn="Titulo" DataSetColumn="Titulo" />
+              <Mapping SourceColumn="cod_doc" DataSetColumn="cod_doc" />
+              <Mapping SourceColumn="sexo" DataSetColumn="sexo" />
+              <Mapping SourceColumn="est_civil" DataSetColumn="est_civil" />
+              <Mapping SourceColumn="cod_titulo" DataSetColumn="cod_titulo" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetProfesores" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_UserDSName="DataSetProfesores" msprop:Generator_DataSetName="DataSetProfesores">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Vista_Profesores" msprop:Generator_RowEvHandlerName="Vista_ProfesoresRowChangeEventHandler" msprop:Generator_RowDeletedName="Vista_ProfesoresRowDeleted" msprop:Generator_RowDeletingName="Vista_ProfesoresRowDeleting" msprop:Generator_RowEvArgName="Vista_ProfesoresRowChangeEvent" msprop:Generator_TablePropName="Vista_Profesores" msprop:Generator_RowChangedName="Vista_ProfesoresRowChanged" msprop:Generator_RowChangingName="Vista_ProfesoresRowChanging" msprop:Generator_TableClassName="Vista_ProfesoresDataTable" msprop:Generator_RowClassName="Vista_ProfesoresRow" msprop:Generator_TableVarName="tableVista_Profesores" msprop:Generator_UserTableName="Vista_Profesores">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="nro_legajo_p" msprop:Generator_ColumnPropNameInRow="nro_legajo_p" msprop:Generator_ColumnPropNameInTable="nro_legajo_pColumn" msprop:Generator_ColumnVarNameInTable="columnnro_legajo_p" msprop:Generator_UserColumnName="nro_legajo_p" type="xs:int" />
+              <xs:element name="Profesor" msprop:Generator_ColumnPropNameInRow="Profesor" msprop:Generator_ColumnPropNameInTable="ProfesorColumn" msprop:Generator_ColumnVarNameInTable="columnProfesor" msprop:Generator_UserColumnName="Profesor">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="nro_doc" msprop:Generator_ColumnPropNameInRow="nro_doc" msprop:Generator_ColumnPropNameInTable="nro_docColumn" msprop:Generator_ColumnVarNameInTable="columnnro_doc" msprop:Generator_UserColumnName="nro_doc" type="xs:int" />
+              <xs:element name="direccion" msprop:Generator_ColumnPropNameInRow="direccion" msprop:Generator_ColumnPropNameInTable="direccionColumn" msprop:Generator_ColumnVarNameInTable="columndireccion" msprop:Generator_UserColumnName="direccion">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="email" msprop:Generator_ColumnPropNameInRow="email" msprop:Generator_ColumnPropNameInTable="emailColumn" msprop:Generator_ColumnVarNameInTable="columnemail" msprop:Generator_UserColumnName="email" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="telefono" msprop:Generator_ColumnPropNameInRow="telefono" msprop:Generator_ColumnPropNameInTable="telefonoColumn" msprop:Generator_ColumnVarNameInTable="columntelefono" msprop:Generator_UserColumnName="telefono" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="fec_nac" msprop:Generator_ColumnPropNameInRow="fec_nac" msprop:Generator_ColumnPropNameInTable="fec_nacColumn" msprop:Generator_ColumnVarNameInTable="columnfec_nac" msprop:Generator_UserColumnName="fec_nac" type="xs:dateTime" />
+              <xs:element name="Titulo" msprop:Generator_ColumnPropNameInRow="Titulo" msprop:Generator_ColumnPropNameInTable="TituloColumn" msprop:Generator_ColumnVarNameInTable="columnTitulo" msprop:Generator_UserColumnName="Titulo" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="cod_doc" msprop:Generator_ColumnPropNameInRow="cod_doc" msprop:Generator_ColumnPropNameInTable="cod_docColumn" msprop:Generator_ColumnVarNameInTable="columncod_doc" msprop:Generator_UserColumnName="cod_doc">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="5" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="sexo" msprop:Generator_ColumnPropNameInRow="sexo" msprop:Generator_ColumnPropNameInTable="sexoColumn" msprop:Generator_ColumnVarNameInTable="columnsexo" msprop:Generator_UserColumnName="sexo">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="est_civil" msprop:Generator_ColumnPropNameInRow="est_civil" msprop:Generator_ColumnPropNameInTable="est_civilColumn" msprop:Generator_ColumnVarNameInTable="columnest_civil" msprop:Generator_UserColumnName="est_civil" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="cod_titulo" msprop:Generator_ColumnPropNameInRow="cod_titulo" msprop:Generator_ColumnPropNameInTable="cod_tituloColumn" msprop:Generator_ColumnVarNameInTable="columncod_titulo" msprop:Generator_UserColumnName="cod_titulo">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="5" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Vista_Profesores" />
+      <xs:field xpath="mstns:nro_legajo_p" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

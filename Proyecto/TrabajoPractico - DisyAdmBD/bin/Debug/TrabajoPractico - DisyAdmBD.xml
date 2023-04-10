@@ -1,0 +1,221 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TrabajoPractico - DisyAdmBD
+</name>
+</assembly>
+<members>
+<member name="T:TrabajoPractico___DisyAdmBD.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:TrabajoPractico___DisyAdmBD.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:TrabajoPractico___DisyAdmBD.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:TrabajoPractico___DisyAdmBD.DataSetExamenes">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:TrabajoPractico___DisyAdmBD.DataSetExamenes.Vista_examenesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TrabajoPractico___DisyAdmBD.DataSetExamenes.Vista_examenesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TrabajoPractico___DisyAdmBD.DataSetExamenes.Vista_examenesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TrabajoPractico___DisyAdmBD.DataSetExamenesTableAdapters.Vista_examenesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TrabajoPractico___DisyAdmBD.DataSetExamenesTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:TrabajoPractico___DisyAdmBD.DataSetExamenesTableAdapters.TableAdapterManager.UpdateUpdatedRows(TrabajoPractico___DisyAdmBD.DataSetExamenes,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:TrabajoPractico___DisyAdmBD.DataSetExamenesTableAdapters.TableAdapterManager.UpdateInsertedRows(TrabajoPractico___DisyAdmBD.DataSetExamenes,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:TrabajoPractico___DisyAdmBD.DataSetExamenesTableAdapters.TableAdapterManager.UpdateDeletedRows(TrabajoPractico___DisyAdmBD.DataSetExamenes,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:TrabajoPractico___DisyAdmBD.DataSetExamenesTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:TrabajoPractico___DisyAdmBD.DataSetExamenesTableAdapters.TableAdapterManager.UpdateAll(TrabajoPractico___DisyAdmBD.DataSetExamenes)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:TrabajoPractico___DisyAdmBD.DataSetExamenesTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:TrabajoPractico___DisyAdmBD.DataSetExamenesTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:TrabajoPractico___DisyAdmBD.DataSetMaterias">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:TrabajoPractico___DisyAdmBD.DataSetMaterias.Vista_materiasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TrabajoPractico___DisyAdmBD.DataSetMaterias.Vista_materiasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TrabajoPractico___DisyAdmBD.DataSetMaterias.Vista_materiasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TrabajoPractico___DisyAdmBD.DataSetMateriasTableAdapters.Vista_materiasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TrabajoPractico___DisyAdmBD.DataSetMateriasTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:TrabajoPractico___DisyAdmBD.DataSetMateriasTableAdapters.TableAdapterManager.UpdateUpdatedRows(TrabajoPractico___DisyAdmBD.DataSetMaterias,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:TrabajoPractico___DisyAdmBD.DataSetMateriasTableAdapters.TableAdapterManager.UpdateInsertedRows(TrabajoPractico___DisyAdmBD.DataSetMaterias,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:TrabajoPractico___DisyAdmBD.DataSetMateriasTableAdapters.TableAdapterManager.UpdateDeletedRows(TrabajoPractico___DisyAdmBD.DataSetMaterias,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:TrabajoPractico___DisyAdmBD.DataSetMateriasTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:TrabajoPractico___DisyAdmBD.DataSetMateriasTableAdapters.TableAdapterManager.UpdateAll(TrabajoPractico___DisyAdmBD.DataSetMaterias)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:TrabajoPractico___DisyAdmBD.DataSetMateriasTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:TrabajoPractico___DisyAdmBD.DataSetMateriasTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:TrabajoPractico___DisyAdmBD.DataSetProfesores">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:TrabajoPractico___DisyAdmBD.DataSetProfesores.Vista_ProfesoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TrabajoPractico___DisyAdmBD.DataSetProfesores.Vista_ProfesoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TrabajoPractico___DisyAdmBD.DataSetProfesores.Vista_ProfesoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TrabajoPractico___DisyAdmBD.DataSetProfesoresTableAdapters.Vista_ProfesoresTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TrabajoPractico___DisyAdmBD.DataSetProfesoresTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:TrabajoPractico___DisyAdmBD.DataSetProfesoresTableAdapters.TableAdapterManager.UpdateUpdatedRows(TrabajoPractico___DisyAdmBD.DataSetProfesores,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:TrabajoPractico___DisyAdmBD.DataSetProfesoresTableAdapters.TableAdapterManager.UpdateInsertedRows(TrabajoPractico___DisyAdmBD.DataSetProfesores,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:TrabajoPractico___DisyAdmBD.DataSetProfesoresTableAdapters.TableAdapterManager.UpdateDeletedRows(TrabajoPractico___DisyAdmBD.DataSetProfesores,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:TrabajoPractico___DisyAdmBD.DataSetProfesoresTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:TrabajoPractico___DisyAdmBD.DataSetProfesoresTableAdapters.TableAdapterManager.UpdateAll(TrabajoPractico___DisyAdmBD.DataSetProfesores)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:TrabajoPractico___DisyAdmBD.DataSetProfesoresTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:TrabajoPractico___DisyAdmBD.DataSetProfesoresTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

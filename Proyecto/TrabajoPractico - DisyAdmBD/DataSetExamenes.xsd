@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetExamenes" targetNamespace="http://tempuri.org/DataSetExamenes.xsd" xmlns:mstns="http://tempuri.org/DataSetExamenes.xsd" xmlns="http://tempuri.org/DataSetExamenes.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection ConnectionStringObject="Data Source=localhost\sqlexpress;Initial Catalog=TrabajoPracticoBD;User ID=sa" IsAppSettingsProperty="false" Modifier="Assembly" Name="desktop-2t5vnfr\sqlexpress.TrabajoPracticoBD.dbo" ParameterPrefix="@" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Vista_examenesTableAdapter" GeneratorDataComponentClassName="Vista_examenesTableAdapter" Name="Vista_examenes" UserDataComponentName="Vista_examenesTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="desktop-2t5vnfr\sqlexpress.TrabajoPracticoBD.dbo" DbObjectName="TrabajoPracticoBD.dbo.Vista_examenes" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT nro_legajo_a, cod_mat, cod_turno, Alumno, Materia, Turno, año, nota, fecha_inscripcion FROM dbo.Vista_examenes</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="nro_legajo_a" DataSetColumn="nro_legajo_a" />
+              <Mapping SourceColumn="cod_mat" DataSetColumn="cod_mat" />
+              <Mapping SourceColumn="cod_turno" DataSetColumn="cod_turno" />
+              <Mapping SourceColumn="Alumno" DataSetColumn="Alumno" />
+              <Mapping SourceColumn="Materia" DataSetColumn="Materia" />
+              <Mapping SourceColumn="Turno" DataSetColumn="Turno" />
+              <Mapping SourceColumn="año" DataSetColumn="año" />
+              <Mapping SourceColumn="nota" DataSetColumn="nota" />
+              <Mapping SourceColumn="fecha_inscripcion" DataSetColumn="fecha_inscripcion" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetExamenes" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_UserDSName="DataSetExamenes" msprop:Generator_DataSetName="DataSetExamenes">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Vista_examenes" msprop:Generator_RowEvHandlerName="Vista_examenesRowChangeEventHandler" msprop:Generator_RowDeletedName="Vista_examenesRowDeleted" msprop:Generator_RowDeletingName="Vista_examenesRowDeleting" msprop:Generator_RowEvArgName="Vista_examenesRowChangeEvent" msprop:Generator_TablePropName="Vista_examenes" msprop:Generator_RowChangedName="Vista_examenesRowChanged" msprop:Generator_RowChangingName="Vista_examenesRowChanging" msprop:Generator_TableClassName="Vista_examenesDataTable" msprop:Generator_RowClassName="Vista_examenesRow" msprop:Generator_TableVarName="tableVista_examenes" msprop:Generator_UserTableName="Vista_examenes">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="nro_legajo_a" msprop:Generator_ColumnPropNameInRow="nro_legajo_a" msprop:Generator_ColumnPropNameInTable="nro_legajo_aColumn" msprop:Generator_ColumnVarNameInTable="columnnro_legajo_a" msprop:Generator_UserColumnName="nro_legajo_a" type="xs:int" />
+              <xs:element name="cod_mat" msprop:Generator_ColumnPropNameInRow="cod_mat" msprop:Generator_ColumnPropNameInTable="cod_matColumn" msprop:Generator_ColumnVarNameInTable="columncod_mat" msprop:Generator_UserColumnName="cod_mat">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="5" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="cod_turno" msprop:Generator_ColumnPropNameInRow="cod_turno" msprop:Generator_ColumnPropNameInTable="cod_turnoColumn" msprop:Generator_ColumnVarNameInTable="columncod_turno" msprop:Generator_UserColumnName="cod_turno">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="5" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Alumno" msprop:Generator_ColumnPropNameInRow="Alumno" msprop:Generator_ColumnPropNameInTable="AlumnoColumn" msprop:Generator_ColumnVarNameInTable="columnAlumno" msprop:Generator_UserColumnName="Alumno">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Materia" msprop:Generator_ColumnPropNameInRow="Materia" msprop:Generator_ColumnPropNameInTable="MateriaColumn" msprop:Generator_ColumnVarNameInTable="columnMateria" msprop:Generator_UserColumnName="Materia" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Turno" msprop:Generator_ColumnPropNameInRow="Turno" msprop:Generator_ColumnPropNameInTable="TurnoColumn" msprop:Generator_ColumnVarNameInTable="columnTurno" msprop:Generator_UserColumnName="Turno" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="año" msprop:Generator_ColumnPropNameInRow="año" msprop:Generator_ColumnPropNameInTable="añoColumn" msprop:Generator_ColumnVarNameInTable="columnaño" msprop:Generator_UserColumnName="año">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="4" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="nota" msprop:Generator_ColumnPropNameInRow="nota" msprop:Generator_ColumnPropNameInTable="notaColumn" msprop:Generator_ColumnVarNameInTable="columnnota" msprop:Generator_UserColumnName="nota" type="xs:int" minOccurs="0" />
+              <xs:element name="fecha_inscripcion" msprop:Generator_ColumnPropNameInRow="fecha_inscripcion" msprop:Generator_ColumnPropNameInTable="fecha_inscripcionColumn" msprop:Generator_ColumnVarNameInTable="columnfecha_inscripcion" msprop:Generator_UserColumnName="fecha_inscripcion" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Vista_examenes" />
+      <xs:field xpath="mstns:nro_legajo_a" />
+      <xs:field xpath="mstns:cod_mat" />
+      <xs:field xpath="mstns:cod_turno" />
+      <xs:field xpath="mstns:año" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
