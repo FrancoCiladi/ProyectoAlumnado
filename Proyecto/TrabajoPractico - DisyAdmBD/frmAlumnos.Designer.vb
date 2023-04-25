@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class frmAlumnos
     Inherits System.Windows.Forms.Form
 
     'Form reemplaza a Dispose para limpiar la lista de componentes.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,7 +20,7 @@ Partial Class frmAlumnos
     'NOTA: el Diseñador de Windows Forms necesita el siguiente procedimiento
     'Se puede modificar usando el Diseñador de Windows Forms.  
     'No lo modifique con el editor de código.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Me.components = New System.ComponentModel.Container()
         Me.dgvAlumnos = New System.Windows.Forms.DataGridView()
@@ -28,10 +28,10 @@ Partial Class frmAlumnos
         Me.RegistrarAlumnoToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ModificarAlumnoToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.EliminarAlumnoToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ImprimirToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.txtAlumnoFiltrar = New System.Windows.Forms.TextBox()
         Me.lblAlumno = New System.Windows.Forms.Label()
         Me.btnFiltrar = New System.Windows.Forms.Button()
-        Me.ImprimirToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         CType(Me.dgvAlumnos, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.mnuAlumnos.SuspendLayout()
         Me.SuspendLayout()
@@ -50,25 +50,31 @@ Partial Class frmAlumnos
         '
         Me.mnuAlumnos.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.RegistrarAlumnoToolStripMenuItem, Me.ModificarAlumnoToolStripMenuItem, Me.EliminarAlumnoToolStripMenuItem, Me.ImprimirToolStripMenuItem})
         Me.mnuAlumnos.Name = "mnuAlumnos"
-        Me.mnuAlumnos.Size = New System.Drawing.Size(181, 114)
+        Me.mnuAlumnos.Size = New System.Drawing.Size(172, 92)
         '
         'RegistrarAlumnoToolStripMenuItem
         '
         Me.RegistrarAlumnoToolStripMenuItem.Name = "RegistrarAlumnoToolStripMenuItem"
-        Me.RegistrarAlumnoToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.RegistrarAlumnoToolStripMenuItem.Size = New System.Drawing.Size(171, 22)
         Me.RegistrarAlumnoToolStripMenuItem.Text = "Registrar Alumno"
         '
         'ModificarAlumnoToolStripMenuItem
         '
         Me.ModificarAlumnoToolStripMenuItem.Name = "ModificarAlumnoToolStripMenuItem"
-        Me.ModificarAlumnoToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.ModificarAlumnoToolStripMenuItem.Size = New System.Drawing.Size(171, 22)
         Me.ModificarAlumnoToolStripMenuItem.Text = "Modificar Alumno"
         '
         'EliminarAlumnoToolStripMenuItem
         '
         Me.EliminarAlumnoToolStripMenuItem.Name = "EliminarAlumnoToolStripMenuItem"
-        Me.EliminarAlumnoToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.EliminarAlumnoToolStripMenuItem.Size = New System.Drawing.Size(171, 22)
         Me.EliminarAlumnoToolStripMenuItem.Text = "Eliminar Alumno"
+        '
+        'ImprimirToolStripMenuItem
+        '
+        Me.ImprimirToolStripMenuItem.Name = "ImprimirToolStripMenuItem"
+        Me.ImprimirToolStripMenuItem.Size = New System.Drawing.Size(171, 22)
+        Me.ImprimirToolStripMenuItem.Text = "Imprimir"
         '
         'txtAlumnoFiltrar
         '
@@ -95,12 +101,6 @@ Partial Class frmAlumnos
         Me.btnFiltrar.TabIndex = 3
         Me.btnFiltrar.Text = "Filtrar"
         Me.btnFiltrar.UseVisualStyleBackColor = True
-        '
-        'ImprimirToolStripMenuItem
-        '
-        Me.ImprimirToolStripMenuItem.Name = "ImprimirToolStripMenuItem"
-        Me.ImprimirToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
-        Me.ImprimirToolStripMenuItem.Text = "Imprimir"
         '
         'frmAlumnos
         '

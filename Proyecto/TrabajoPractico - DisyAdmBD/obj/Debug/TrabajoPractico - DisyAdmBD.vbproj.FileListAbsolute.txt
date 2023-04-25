@@ -200,3 +200,110 @@ C:\Users\franc\Documents\Facultad\Diseño y Adm. Base de Datos\TrabajoPractico -
 C:\Users\franc\Documents\Facultad\Diseño y Adm. Base de Datos\TrabajoPractico - DisyAdmBD\TrabajoPractico - DisyAdmBD\obj\Debug\TrabajoPractico - DisyAdmBD.exe
 C:\Users\franc\Documents\Facultad\Diseño y Adm. Base de Datos\TrabajoPractico - DisyAdmBD\TrabajoPractico - DisyAdmBD\obj\Debug\TrabajoPractico - DisyAdmBD.xml
 C:\Users\franc\Documents\Facultad\Diseño y Adm. Base de Datos\TrabajoPractico - DisyAdmBD\TrabajoPractico - DisyAdmBD\obj\Debug\TrabajoPractico - DisyAdmBD.pdb
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\TrabajoPractico - DisyAdmBD.exe.config
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\TrabajoPractico - DisyAdmBD.exe
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\TrabajoPractico - DisyAdmBD.pdb
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\TrabajoPractico - DisyAdmBD.xml
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\EnvDTE.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\stdole.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\Microsoft.MSXML.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\obj\Debug\TrabajoPractico - DisyAdmBD.vbproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\obj\Debug\TrabajoPractico___DisyAdmBD.frmAltaAlumno.resources
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\obj\Debug\TrabajoPractico___DisyAdmBD.frmAltaExamen.resources
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\obj\Debug\TrabajoPractico___DisyAdmBD.frmAltaMateria.resources
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\obj\Debug\TrabajoPractico___DisyAdmBD.frmAltaProfesor.resources
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\obj\Debug\TrabajoPractico___DisyAdmBD.frmExamenes.resources
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\obj\Debug\TrabajoPractico___DisyAdmBD.frmMaterias.resources
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\obj\Debug\TrabajoPractico___DisyAdmBD.frmMenuPrincipal.resources
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\obj\Debug\TrabajoPractico___DisyAdmBD.frmAlumnos.resources
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\obj\Debug\TrabajoPractico___DisyAdmBD.frmProfesores.resources
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\obj\Debug\TrabajoPractico___DisyAdmBD.frmProfesoresReemplazo.resources
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\obj\Debug\TrabajoPractico___DisyAdmBD.frmReporteAlumnos.resources
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\obj\Debug\TrabajoPractico___DisyAdmBD.frmReporteExamenes.resources
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\obj\Debug\TrabajoPractico___DisyAdmBD.frmReporteMaterias.resources
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\obj\Debug\TrabajoPractico___DisyAdmBD.frmReporteProfesores.resources
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\obj\Debug\TrabajoPractico___DisyAdmBD.frmTurnos.resources
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\obj\Debug\TrabajoPractico___DisyAdmBD.Resources.resources
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\obj\Debug\TrabajoPractico - DisyAdmBD.vbproj.GenerateResource.cache
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\obj\Debug\TrabajoPractico - DisyAdmBD.vbproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\obj\Debug\TrabajoPractico - DisyAdmBD.vbproj.CopyComplete
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\obj\Debug\TrabajoPractico - DisyAdmBD.exe
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\obj\Debug\TrabajoPractico - DisyAdmBD.xml
+C:\Users\franc\OneDrive\Documentos\GitHub Repositorios\ProyectoAlumnado\Proyecto\TrabajoPractico - DisyAdmBD\obj\Debug\TrabajoPractico - DisyAdmBD.pdb

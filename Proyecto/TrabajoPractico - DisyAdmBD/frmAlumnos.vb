@@ -20,7 +20,8 @@
     Private Sub CargarGrilla()
         Dim cadenaSQL As String
         Dim tabla As DataTable
-
+        Dim col As DataGridViewLinkColumn  'necesario para hacer hyperlink a la columna 
+        col = New DataGridViewLinkColumn
         tabla = New DataTable()
 
         If txtAlumnoFiltrar.Text.Trim <> String.Empty Then
@@ -38,12 +39,16 @@
         dgvAlumnos.Columns("sexo").Visible = False
         dgvAlumnos.Columns("est_civil").Visible = False
         dgvAlumnos.Columns("cod_doc").Visible = False
+        dgvAlumnos.Columns("telefono").Visible = False
         dgvAlumnos.Columns("NroDoc").HeaderText = "Nro. Doc"
         dgvAlumnos.Columns("direccion").HeaderText = "Direccion"
-        dgvAlumnos.Columns("Telefono").HeaderText = "Telefono"
         dgvAlumnos.Columns("email").HeaderText = "Email"
         dgvAlumnos.Columns("FechaNacimiento").HeaderText = "Fecha Nacimiento"
 
+        col.DataPropertyName = "Telefono" 'columna de la bd a la que va a estar enlazada, que campo va a recuperar de la bd
+        col.Name = "Telefono"   'nombre que va a tener la columna 
+        col.DisplayIndex = 1    'cambio el orden de la columna, por default siempre es al final
+        dgvAlumnos.Columns.Add(col)
 
     End Sub
 
@@ -75,5 +80,12 @@
 
     Private Sub ImprimirToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ImprimirToolStripMenuItem.Click
         frmReporteAlumnos.ShowDialog()
+    End Sub
+
+
+    Private Sub dgvAlumnos_CellContentClick(sender As Object, e As DataGridViewCellEventArgs) Handles dgvAlumnos.CellContentClick
+        If dgvAlumnos.Columns(dgvAlumnos.CurrentCell.ColumnIndex).HeaderText = "Telefono" Then
+            Process.Start("https://wa.me/+54" & dgvAlumnos.CurrentCell.EditedFormattedValue)
+        End If
     End Sub
 End Class
