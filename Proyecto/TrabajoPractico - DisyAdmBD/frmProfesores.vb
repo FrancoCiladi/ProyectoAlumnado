@@ -19,7 +19,8 @@
     Private Sub CargarGrilla()
         Dim cadenaSQL As String
         Dim tabla As DataTable
-
+        Dim col As DataGridViewLinkColumn  'necesario para hacer hyperlink a la columna 
+        col = New DataGridViewLinkColumn
         tabla = New DataTable()
 
         If txtProfesorFiltrar.Text.Trim <> String.Empty Then
@@ -38,11 +39,16 @@
         dgvProfesores.Columns("est_civil").Visible = False
         dgvProfesores.Columns("cod_doc").Visible = False
         dgvProfesores.Columns("cod_titulo").Visible = False
+        dgvProfesores.Columns("telefono").Visible = False
         dgvProfesores.Columns("nro_doc").HeaderText = "Nro Doc"
         dgvProfesores.Columns("direccion").HeaderText = "Direccion"
         dgvProfesores.Columns("email").HeaderText = "Email"
-        dgvProfesores.Columns("telefono").HeaderText = "Telefono"
         dgvProfesores.Columns("fec_nac").HeaderText = "Fecha Nacimiento"
+
+        col.DataPropertyName = "Telefono" 'columna de la bd a la que va a estar enlazada, que campo va a recuperar de la bd
+        col.Name = "Telefono"   'nombre que va a tener la columna 
+        col.DisplayIndex = 1    'cambio el orden de la columna, por default siempre es al final
+        dgvProfesores.Columns.Add(col)
     End Sub
 
     Private Sub btnFiltrar_Click(sender As Object, e As EventArgs) Handles btnFiltrar.Click
